@@ -1,1 +1,6 @@
-# llm_on_GoogleColab
+# run LLMs on Google Colab
+
+
+### Llama2
+
+### Mistral-7B
