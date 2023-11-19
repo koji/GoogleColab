@@ -11,3 +11,6 @@ https://github.com/koji/llm_on_GoogleColab/blob/main/Japanese_StableLM_Instruct_
 
 ### Calm 7B Chat
 https://github.com/koji/llm_on_GoogleColab/blob/main/Calm2_7B_Chat_llama_cpp_python.ipynb
+
+### Whisper large-v3
+https://github.com/koji/llm_on_GoogleColab/blob/main/Whisper_large_v3.ipynb
