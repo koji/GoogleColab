@@ -17,4 +17,4 @@ https://github.com/koji/llm_on_GoogleColab/blob/main/Whisper_large_v3.ipynb
 
 
 ### SDXL Turbo with Simple Gradio UI
-https://github.com/koji/GoogleColab/blob/main/sdxl_turbo_simple_ui.ipynb
+https://github.com/koji/GoogleColab/blob/main/sdxl_turbo_simple_ui/sdxl_turbo_simple_ui.ipynb
