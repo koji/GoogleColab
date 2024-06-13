@@ -1,7 +1,6 @@
 import gradio as gr
 import torch
 from diffusers import AutoPipelineForText2Image
-import torch
 
 model_name="stabilityai/sdxl-turbo"
 device="cuda"
