@@ -25,6 +25,9 @@ https://github.com/koji/GoogleColab/blob/main/SegMoE.ipynb
 https://github.com/koji/GoogleColab/blob/main/SegMoE.ipynb
 
 
+### Llama3.2-vision + Ollama
+https://github.com/koji/GoogleColab/blob/main/llama3_2_vision.ipynb
 
 ### Llama3.2-vision + transformers
+https://github.com/koji/GoogleColab/tree/main/llama3_2_vision%2Btransformers  
 ![2024-11-10 13_29_13-multi modal app with llama3 2-vision](https://github.com/user-attachments/assets/7a73ca00-30a4-481b-9fd2-b99aec23f7dc)
